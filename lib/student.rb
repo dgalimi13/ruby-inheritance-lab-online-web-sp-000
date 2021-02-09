@@ -7,6 +7,6 @@ end
 
 @@knowledge = []
 
-def self.
-
+def self.new
+@@knowledge
 end
